@@ -1,0 +1,28 @@
+* {
+    font-family: sans-serif
+  }
+  
+  h1, .subtitle {
+    text-align: center;
+  }
+  
+  h2 {
+    margin: 50px 0;
+    text-align: center;
+  }
+  
+  li {
+    margin: 16px 0;
+  }
+  
+  img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+
+  h3 {
+    font-size: small;
+    font-style: italic;
+  }
+  
